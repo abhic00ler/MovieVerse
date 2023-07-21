@@ -24,7 +24,7 @@
   <a href="#-acknowledgements">Acknowledgements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<img alt="Layout" src="screenshots/test_function_1.png">
+<img alt="Layout" src="Screenshot (191).png">
 
 ### 👨🏻‍💻 About The Project
 Responsive movie search website
