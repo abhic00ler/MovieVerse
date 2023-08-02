@@ -7,7 +7,7 @@
   Search your favorite movies
 </h3>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/badge/language-ReactJS-brightgreen">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/ReactJS-brightgreen">
 
   <a>
 	  <img alt="Made by" src="https://img.shields.io/badge/made%20by-Abhishek%20Gaikwad-blueviolet">
